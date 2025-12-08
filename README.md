@@ -66,11 +66,25 @@ Prompts otimizados por gênero textual, critérios educacionais e métricas.
 
 ---
 
-### 💡 Interesses atuais
+---
 
-- Engenharia de Dados para projetos de IA
-- Engenharia de prompts e avaliação de modelos
-- Métricas, monitoramento e custos de soluções em nuvem
+### 📊 GitHub Stats
 
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula"
+    alt="GitHub stats"
+  />
+</p>
+
+<p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula"
+    alt="Top langs"
+  />
+</p>
+<p align="center">
+  <img src="banner.png" alt="Banner Kelly - Data & AI" />
+</p>
 
 
