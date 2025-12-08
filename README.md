@@ -66,16 +66,6 @@ Prompts otimizados por gênero textual, critérios educacionais e métricas.
 
 ---
 
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
 ### 💡 Interesses atuais
 
 - Engenharia de Dados para projetos de IA
