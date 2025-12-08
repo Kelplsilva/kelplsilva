@@ -72,19 +72,17 @@ Prompts otimizados por gênero textual, critérios educacionais e métricas.
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula"
-    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=kelplsilva&show_icons=true&theme=dracula"
+    alt="Kelly GitHub stats"
   />
 </p>
 
 <p>
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula"
-    alt="Top langs"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelplsilva&layout=compact&theme=dracula"
+    alt="Kelly Top Languages"
   />
 </p>
-<p align="center">
-  <img src="banner.png" alt="Banner Kelly - Data & AI" />
-</p>
+
 
 
