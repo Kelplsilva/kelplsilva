@@ -61,7 +61,7 @@ Processamento paralelo, métricas avançadas e arquitetura escalável.
 ### 🔹 **Sistema de Custo por Token e por Usuário (AWS Cost Explorer)**  
 Integração com DynamoDB, filtros por escolas, professores e etapas.
 
-### 🔹 **Engine de avaliação textual **  
+### 🔹 **Engine de avaliação textual**  
 Prompts otimizados por gênero textual, critérios educacionais e métricas.
 
 ---
