@@ -66,23 +66,3 @@ Prompts otimizados por gênero textual, critérios educacionais e métricas.
 
 ---
 
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kelplsilva&show_icons=true&theme=dracula"
-    alt="Kelly GitHub stats"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelplsilva&layout=compact&theme=dracula"
-    alt="Kelly Top Languages"
-  />
-</p>
-
-
-
