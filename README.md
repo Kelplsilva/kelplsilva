@@ -1,7 +1,7 @@
 <!-- ✨ BANNER SUPERIOR COM BORDA E ÍCONES -->
 <div align="center">
 
-# 🌐 **Kelly Patricia Lopes Silva**
+# 🌐 **Kelly Silva**
 ### *Data & AI Engineer · Ciência de Dados · Engenharia de Dados · Prompt Engineering · Avaliação de Modelos*
 #### MBA em Data & Analytics — USP/ESALQ 🎓
 
@@ -66,7 +66,5 @@ Prompts otimizados por gênero textual, critérios educacionais e métricas.
 
 ---
 
-## 📫 **Contato**
-📧 **kelly.silva@compasso.com.br**  
-🔗 **Lin**
+
 
