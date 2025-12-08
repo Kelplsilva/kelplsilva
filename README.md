@@ -65,23 +65,6 @@ Integração com DynamoDB, filtros por escolas, professores e etapas.
 Prompts otimizados por gênero textual, critérios educacionais e métricas.
 
 ---
-<h1 align="center">Oi, eu sou a Kelly 👋</h1>
-
-<p align="center">
-  Cientista de Dados · Engenharia de Dados · Prompt Engineering<br/>
-  MBA Data & Analytics — USP/ESALQ
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:seuemail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 
 ### 🛠 Tech Stack
 
